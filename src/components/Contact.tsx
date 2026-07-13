@@ -45,14 +45,14 @@ export default function Contact() {
             </Reveal>
             <Reveal delay={0.3}>
               <a
-                href="mailto:hello@akarchitects.in"
+                href="mailto:Avinashkum1997@gmail.com"
                 className="flex items-center gap-4 group"
               >
                 <span className="h-11 w-11 rounded-full bg-[#1c1b19] text-[var(--accent)] grid place-items-center shrink-0">
                   <Mail size={17} />
                 </span>
                 <span className="text-[#1c1b19]/80 group-hover:text-[var(--accent)] transition-colors">
-                  hello@akarchitects.in
+                  Avinashkum1997@gmail.com
                 </span>
               </a>
             </Reveal>

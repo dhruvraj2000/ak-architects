@@ -32,7 +32,7 @@ export default function Footer() {
             <InstagramIcon size={18} />
           </a>
           <a
-            href="mailto:hello@akarchitects.in"
+            href="mailto:Avinashkum1997@gmail.com"
             className="hover:text-[var(--accent)] transition-colors"
             aria-label="Email"
           >
